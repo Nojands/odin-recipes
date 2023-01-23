@@ -1,0 +1,1 @@
+This project will reinforce my knowledge creating a web page from scratch and how to work it through github

@@ -1,0 +1,31 @@
+h1 {
+    font-size: 36px;
+    color: #af4c4c;
+    text-align: center;
+  }
+  
+  img {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-size: 36px;
+    color: #af4c4c;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    width: 500px;
+    border-width: 10px;
+    border-color: blue;
+    margin: 20px auto;
+    border-style: solid;
+    padding: 20px;
+    text-align: center;
+  }
